@@ -2,7 +2,7 @@
 
 var firstHalfs = ["Even a broken clock", "A watched pot", "A bird in the hand", "A penny saved"];
 var secondHalfs = ["is right twice a day.", "never boils.", "is worth two in the bush.", "is a penny earned."];
-var fakeAuthors = ["Plato", "Socrates", "Aristotle", "Obama", "Some Old Dude", "That One Guy", "Galileo", "Issac Newton", "Einstein"];
+var fakeAuthors = ["Plato", "Socrates", "Aristotle", "Obama", "Some Old Dude", "That One Guy", "Galileo", "Issac Newton", "Einstein", "That Teacher that was always rude for no reason"];
 var after = [" or something.", " propbably.", " or whatever.", "???", " I think."];
 
 //Functions
