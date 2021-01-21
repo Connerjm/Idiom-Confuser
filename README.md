@@ -30,7 +30,7 @@ Project is created with:
 
 Nice and simple.
 
-![An image of a produced idiom.](Assets/Images/idiom.png)
+![An image of a produced idiom.](Assets/Images/Idiom.png)
 
 ## To Do
 
